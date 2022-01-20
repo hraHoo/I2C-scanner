@@ -23,6 +23,8 @@
 //    A sensor seems to use address 120.
 // Version 6, November 27, 2015.
 //    Added waiting for the Leonardo serial communication.
+// Version 7, November 27, 2021.
+//    Identification for bosch sensors and couple other sensor. Now try to tell you clear english all sensors connected to I2C bus.
 // 
 //
 // This sketch tests the standard 7-bit addresses
