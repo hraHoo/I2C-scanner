@@ -1,6 +1,6 @@
 # I2C-scanner
 
-Identify the following sensonrs and displays:
+Identify the following sensonrs:
   - BME680
   - BME280
   - BMP280
