@@ -2,16 +2,16 @@
 
 Identify the following sensonrs:
 
- - BMP085 - Bosch temperature and pressure sensor                                                ID_REG = 0xD0, value = 
- - BMP180 - Bosch temperature and pressure sensor                                                ID_REG = 0xD0, value = 0x55
- - BMP280 - Bosch temperature and pressure sensor                                                ID_REG = 0xD0, value = 0x58, 0x56 or 0x57 (Sample)
- - BME280 - Bosch Pressure and Humidity Sensor                                                   ID_REG = 0xD0, value = 0x60
- - BMP388 - Bosch Pressure Sensor                                                                ID_REG = 0x00, value = 0x50
- - BME680 - Gas sensor relative humidity, barometric pressure, ambient temperature and gas (VOC) ID_REG = 0xD0, value = 0x61
- - CSS811 or AMS IAQ-CORE - Gas sensor solution for monitoring indoor air quality                ID_REG = 0x20, value = 0x81
- - HDC1000 - High Accuracy Digital Humidity Sensor with Temperature Sensor                       ID_REG = 0xFF, value = 0x1000
- - HDC1050 or HDC1080 - High Accuracy Digital Humidity Sensor with Temperature Sensor            ID_REG = 0xFF, value = 0x1050
- - ENS160 - Multi-Gas Sensor                                                                     ID_REG = 0x00, Value = 0x01, 0x60     
+ - BMP085 - Bosch temperature and pressure sensor
+ - BMP180 - Bosch temperature and pressure sensor 
+ - BMP280 - Bosch temperature and pressure sensor
+ - BME280 - Bosch Pressure and Humidity Sensor
+ - BMP388 - Bosch Pressure Sensor
+ - BME680 - Gas sensor relative humidity, barometric pressure, ambient temperature and gas (VOC)
+ - CSS811 or AMS IAQ-CORE - Gas sensor solution for monitoring indoor air quality
+ - HDC1000 - High Accuracy Digital Humidity Sensor with Temperature Sensor
+ - HDC1050 or HDC1080 - High Accuracy Digital Humidity Sensor with Temperature Sensor
+ - ENS160 - Multi-Gas Sensor
  - MPU9250 or MPU6050 - Accelerometer and Gyroscope Module
  - SHT30 - Temperature and Humidity Sensor
  - SGP30 - Multi-gas (VOC and CO₂eq) sensor
